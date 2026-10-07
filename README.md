@@ -1,6 +1,8 @@
 Nombre: Jelika Duanny Lezama Rodriguez
-Curso: Lenguaje de Programaci髇 II
+Curso: Lenguaje de Programacion II
 Proyecto: T2_Lezama_Rodriguez
 
-Descripci髇
-Repositorio Git local creado para controlar las versiones de un proyecto Java/Maven. Contiene la l韓ea base del proyecto, un archivo .gitignore con las exclusiones propias de Eclipse y Maven, y el historial de cambios que permite verificar su trazabilidad.
+Descripcion
+Repositorio Git local creado para controlar las versiones de un proyecto Java/Maven. Contiene la linea base del proyecto, un archivo .gitignore con las exclusiones propias de Eclipse y Maven, y el historial de cambios que permite verificar su trazabilidad.
+## Evidencia T2
+Evaluaci贸n T2 de Lenguaje de Programaci贸n II, Pregunta 01: preparaci贸n, configuraci贸n y l铆nea base de un repositorio Git.
