@@ -1,0 +1,3 @@
+cat > observaciones.txt << 'EOF'
+Observaciones de la evaluación T2 - Lenguaje de Programación II.
+Pregunta 02: se practicó el control de cambios con Git (Working Directory, Staging Area y repositorio local).
