@@ -12,3 +12,7 @@ cat >> README.md << 'EOF'
 
 ## Control de cambios
 En esta actividad se practicó el control de cambios con Git: se modificaron README.md y pom.xml, se creó el archivo observaciones.txt y se gestionaron los cambios entre el Working Directory, el Staging Area y el repositorio local.
+
+## Gestión de ramas
+Rama utilizada: feature-lezama.
+Cambio: se creo la clase ControlVersion_Lezama.java en src/main/java, que muestra un mensaje de identificacion del estudiante. Esta funcionalidad se desarrolló de forma independiente en la rama feature-lezama para luego unirla con la rama principal.
